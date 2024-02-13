@@ -306,7 +306,7 @@ Some global information from a HAL file can be quickly obtained using `halStats`
 
 The `--tree`, `--sequences`, and `--genomes` options can be used to print out only specific information to simplify iterating over the alignment in shell or Python scripts.
 
-#### halSummarizeMtuations
+#### halSummarizeMutations
 
 A count of each type of mutation (Insertions, Deletions, Inversions, Duplications, Transpositions, Gap Insertions, Gap Deletions) in each branch of the alignment can be printed out in a table.
 
